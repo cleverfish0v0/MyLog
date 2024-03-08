@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f73a35da6f25ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "丹经/01-太乙精华宗旨/ty00-太乙精华宗旨.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-从这里开始/00-开始打坐.md",
+                "file": "丹经/01-太乙精华宗旨/ty00-太乙精华宗旨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-从这里开始/00-开始打坐.md",
+                "file": "丹经/01-太乙精华宗旨/ty00-太乙精华宗旨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-从这里开始/00-开始打坐.md"
+                "file": "丹经/01-太乙精华宗旨/ty00-太乙精华宗旨.md"
               }
             }
           }
@@ -147,30 +160,33 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "19b229b7609926e3",
+  "active": "9f73a35da6f25ea7",
   "lastOpenFiles": [
+    "丹经/01-太乙精华宗旨/ty04-回光调息.md",
+    "丹经/01-太乙精华宗旨/ty05-回光差谬.md",
+    "丹经/01-太乙精华宗旨/ty08-道遥诀.md",
+    "丹经/01-太乙精华宗旨/ty06-回光证验.md",
+    "01-从这里开始/00-开始打坐.md",
+    "Pasted image 20240308195213.png",
+    "index.md",
+    "丹经/01-太乙精华宗旨/ty00-太乙精华宗旨.md",
+    "丹经/02-清静经/qj00-清净经.md",
+    "丹经/02-清静经/qj01-清静经原文.md",
+    "丹经/01-太乙精华宗旨/ty02-元神、识神.md",
+    "丹经/01-太乙精华宗旨/ty01- 天心.md",
     "试一下.canvas",
     "Excalidraw/Drawing 2024-03-07 10.19.38.excalidraw.md",
-    "01-从这里开始/00-开始打坐.md",
     "Excalidraw",
     "图片资源",
     "图片资源/Pasted image 20240307101625.png",
-    "丹经/01-太乙精华宗旨/ty00-太乙精华宗旨目录.md",
-    "丹经/02-清静经/清静经原文.md",
     "丹经/02-清静经",
-    "丹经/01-太乙精华宗旨/ty01- 天心.md",
     "丹经/01-太乙精华宗旨/ty13-劝世歌.md",
     "丹经/01-太乙精华宗旨/ty12-章 周天.md",
     "丹经/01-太乙精华宗旨/ty11-章坎离交媾.md",
     "丹经/01-太乙精华宗旨/ty10-性光识光.md",
     "丹经/01-太乙精华宗旨/ty09-百曰筑基.md",
-    "丹经/01-太乙精华宗旨/ty08-道遥诀.md",
     "丹经/01-太乙精华宗旨/ty07- 回光活法.md",
-    "丹经/01-太乙精华宗旨/ty06-回光证验.md",
-    "丹经/01-太乙精华宗旨/ty05-回光差谬.md",
-    "丹经/01-太乙精华宗旨/ty04-回光调息.md",
     "丹经/01-太乙精华宗旨/ty03- 回光守中.md",
-    "丹经/01-太乙精华宗旨/ty02-元神、识神.md",
     "丹经",
     "丹经/01-太乙精华宗旨/01-原文",
     "01-从这里开始",
